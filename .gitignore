@@ -1,0 +1,19 @@
+# API keys and environment
+.env
+
+# Data files (share separately)
+data/
+
+# Cached results
+.dash_cache/
+.gemini_cache/
+outputs/rf_results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# macOS
+.DS_Store
